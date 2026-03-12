@@ -270,35 +270,31 @@ After completing the deployment, the resource group was deleted to avoid ongoing
 ## Screenshots
 
 ### Resource Group Overview
-![Resource Group](screenshots/resource-group-overview.png)
+![Resource Group](screenshots/01-resource-group-overview.png)
 
 ### Virtual Network
-![Virtual Network](screenshots/virtual-network.png)
+![Virtual Network](screenshots/02-virtual-network.png)
 
 ### Application Gateway (WAF)
-![Application Gateway](screenshots/application-gateway.png)
+![Application Gateway](screenshots/03-application-gateway-waf.png)
 
 ### Virtual Machine
-![Virtual Machine](screenshots/vm-overview.png)
+![Virtual Machine](screenshots/04-virtual-machine.png)
 
 ### SQL Database
-![SQL Database](screenshots/sql-database.png)
+![SQL Database](screenshots/05-sql-database.png)
 
 ### Storage Account
-![Storage Account](screenshots/storage-account.png)
+![Storage Account](screenshots/06-storage-account.png)
 
 ### Defender for Cloud Dashboard
-![Defender Dashboard](screenshots/defender-dashboard.png)
+![Defender Dashboard](screenshots/07-defender-dashboard.png)
 
 ### Defender Recommendations
-![Defender Recommendations](screenshots/defender-recommendations.png)
+![Defender Recommendations](screenshots/08-defender-recommendations.png)
 
 ### Microsoft Sentinel Overview
-![Sentinel Overview](screenshots/sentinel-overview.png)
+![Sentinel Overview](screenshots/09-sentinel-overview.png)
 
 ### Logic App Automation Playbook
-![Logic App](screenshots/logic-app-playbook.png)
-
-## Author
-
-Cloud Security Architecture Project
+![Logic App](screenshots/10-logic-app-playbook.png)
