@@ -267,6 +267,37 @@ rg-azure-threat-detection
 After completing the deployment, the resource group was deleted to avoid ongoing costs.
 
 ---
+## Screenshots
+
+### Resource Group Overview
+![Resource Group](screenshots/resource-group-overview.png)
+
+### Virtual Network
+![Virtual Network](screenshots/virtual-network.png)
+
+### Application Gateway (WAF)
+![Application Gateway](screenshots/application-gateway.png)
+
+### Virtual Machine
+![Virtual Machine](screenshots/vm-overview.png)
+
+### SQL Database
+![SQL Database](screenshots/sql-database.png)
+
+### Storage Account
+![Storage Account](screenshots/storage-account.png)
+
+### Defender for Cloud Dashboard
+![Defender Dashboard](screenshots/defender-dashboard.png)
+
+### Defender Recommendations
+![Defender Recommendations](screenshots/defender-recommendations.png)
+
+### Microsoft Sentinel Overview
+![Sentinel Overview](screenshots/sentinel-overview.png)
+
+### Logic App Automation Playbook
+![Logic App](screenshots/logic-app-playbook.png)
 
 ## Author
 
