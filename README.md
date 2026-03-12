@@ -263,9 +263,6 @@ All resources were deployed inside:
 ```
 rg-azure-threat-detection
 ```
-
-After completing the deployment, the resource group was deleted to avoid ongoing costs.
-
 ---
 ## Screenshots
 
